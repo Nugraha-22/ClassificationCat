@@ -1,7 +1,0 @@
-
-train: ../ClassificationCat/train_data/images/train/  # train images (relative to 'path') 128 images
-val: ../ClassificationCat/train_data/images/val/  # val images (relative to 'path') 128 images
-
-# Classes
-nc: 5  # number of classes
-names: ['maine_coon','munchkin','persian','ragdoll','russian_blue','scottish_fold','siam','sphynx']  # class names
