@@ -1,7 +1,0 @@
-
-train: /content/ClassificationCat/Dataset/images/train/  # train images (relative to 'path') 128 images
-val: /content/ClassificationCat/Dataset/images/val/  # val images (relative to 'path') 128 images
-
-# Classes
-nc: 8  # number of classes
-names: ['maine_coon','persian','ragdoll','russian_blue','siamese','sphynx']  # class names
