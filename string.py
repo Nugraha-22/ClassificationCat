@@ -1,5 +1,5 @@
 
-str_javascript = '''
+strjavascript = '''
     var video;
     var div = null;
     var stream;
