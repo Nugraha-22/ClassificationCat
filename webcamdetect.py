@@ -16,11 +16,11 @@ from google.colab.output import eval_js
 from google.colab.patches import cv2_imshow
 from base64 import b64decode, b64encode
 
-from string import strjavascript
+from string import str_javascript
 
 
 def video_stream():
-    js = Javascript(strjavascript)
+    js = Javascript(str_javascript)
     display(js)
 
 
