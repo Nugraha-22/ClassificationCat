@@ -1,3 +1,6 @@
+import sys
+sys.path.append('./ClassificationCat')
+
 import cv2
 import numpy as np
 import PIL
